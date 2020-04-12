@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/pgorsira
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pietergorsira.com
+  * I am pgorsira (https://keybase.io/pgorsira) on keybase.
+  * I have a public key with fingerprint 0AD5 BB8B 04E7 F7FA E6B4  C5A1 69C8 0F90 8D91 6E93
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012f7acbef72d3ff18d58f0c08b30abbbe274ac27807e7836ffa193866202fd2110a",
+      "fingerprint": "0ad5bb8b04e7f7fae6b4c5a169c80f908d916e93",
+      "host": "keybase.io",
+      "key_id": "69c80f908d916e93",
+      "kid": "01012f7acbef72d3ff18d58f0c08b30abbbe274ac27807e7836ffa193866202fd2110a",
+      "uid": "5944e830bcc0ee9718c8e861fe6f9019",
+      "username": "pgorsira"
+    },
+    "merkle_root": {
+      "ctime": 1539647566,
+      "hash_meta": "b01638a1e49545d385162dbdd069a4b19ca1aac80b0337b3ded6652a47184ee7",
+      "seqno": 3799665
+    },
+    "revoke": {
+      "sig_ids": [
+        "58ff96b3d6ea928d817bcb461c28c93553bb5d301146ad5df6847d107fe89c2f0f"
+      ]
+    },
+    "service": {
+      "hostname": "pietergorsira.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1539647586,
+  "expire_in": 157680000,
+  "prev": "23638d6649ee1bbff061c287ee0cac9e60f268d0c2e28a36aed55db31427073d",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtk31sFEUYxq9Qw3EINkUpH7HYFUpjsMzsx+xMFSGAFFA+BYEUvO7szl7XtrfH
+3rW0UDAgEkhbgrUg/dBQEhIsVPwoYqCRU6AUNUBAAqZVU2mgEL0UvbRSIDjbQEyM
+f7r/bHbmeZ/3eX+zs3P4YI83wWp7Ymflu8H3Er67ST05pzOM9QK1jVIha72QzwZe
+rMBg4Yg/3zKELAFAAEVT1XTKTFU0JNOE2FCwCXSAqQQ0SikTVVnTRRUDlalYQqap
+QSJhhEQgmoYIIdCEyYJpBQPMCTlWMOLaaoZCKaZAZqqpmhpDVNYVDSKiY2ASgA0C
+ESMSL8yzw24FD0e1MMu0bL7GP/wD8f5D/z/nLhqwU4gsMywBquuAMaJCrGOGETQZ
+4t0hcYVh5gS1QsbVoYDthC1HEzZMFgqZk1/A/I5tR1y4esRyJVCRCJJVBSE+oBbO
+8xeyiMYrKYBIwhpkMlFkxZCwApFoUMMAiGgyhUTXoKbxmSmQJJVKBjMQUkRN5olk
+xlSeI8zWBG0hS1IJ4Vs8gcOK7XzmNg9bAY4tLGTlCByFGS0jiFsgphERGxiqVKcy
+grqIdSIpikQpTwAglBE/LcNEWFYNCFSTYaKLJjCF1Rvcdk6xpQ/Yuyf1iIDFIsx5
+iCFTtwt5sJBjR2zdLuDbeZFIKJzl4omUhlz9Wkb9D5381Aoa/GfhFcWM19tBjosr
+/0UOc3KsJGQ5zG+5CkVFGPDH7cOKuaUocZKcjkwYg5SaJhgYTWUM6JpOGAKmiLAB
+dJGJWJOQxgxFMagEZVEFqmT8gxLKPKcW4J4cYFCLFDlM2ODbPkhK9CR4PU+PSkv0
+XT5ennijr/968+mGRxfssUHu7fL4hiY9Wkmdl+TZc/fCPP+k1dVLK47BYQ8Spo2P
+HxT2NcVHTs1dgv/MPTkr9fPnTjRU9OU0nqsfs+L+O1NJ094LS/W6vGjaIrCKvvLa
+2rp6oyQ9dVb0+4lnj9wbm5EiTwKbVnQ29LaRiqGVb2fNnLE5Wf69pj/Q1nSwtijz
+s5euXtxbc1E9deZER0rgyo6i0b7ts6Z5p8TWPfnGCB87V/W4t3bLxg+OxUNWevvo
+BdesjKPLrSloWDpd3PxW7/UP/V8cWjAz5eyrP88pm3mnsXrijh/vz8ksSd4/xlp1
+OzDuVOf2+IrW7p4S36U5N++0VH3dSUCsc33V7NKU7I8LfRk1tGpU2XmrtTl9+KDG
+2POeG61fdQ6+eOejK8sq1W1yanJuXXG0o3SJ3JrSVrC7/NmKvq1dQw+N7/JeGpH4
+R9fdH/pe3DLuwK6fbnxZ8KCbLe5YWpldfuTW/GU1zVcXN4Wi1jNbTj5Q542dn0Hk
+8iFn3v90emP1L0Wxlg6rPvhbxSfd8Yp1C6O3ysZHj9anxWfs+6v0NlnYsmTNuF97
+p+/wbm5reGr2iT3xTVXtE3y7r/VcOLzXwbFlLS0gKe2Flm+axww5urEr+/IBofP6
+rt1p5/vjh2ubSF3pglv7c1b2bJ3Wk5dU8vJsltg0d93yEnVl7F579+s9B8xF3v29
+nm+P4/xgdnl9+/Loveohc6tj56d2vVmzLScyIffuyP6/AQ==
+=2wjP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pgorsira
+
+==================================================================
